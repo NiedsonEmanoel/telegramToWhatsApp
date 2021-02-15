@@ -1,0 +1,35 @@
+{
+  "name": "telegramtowhatsapp",
+  "version": "1.0.0",
+  "description": "Bot que leva as conversas de um grupo ou contato do WhatsApp para o Telegram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index-d",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiedsonEmanoel/telegramToWhatsApp.git"
+  },
+  "keywords": [
+    "WhatsApp",
+    "Telegram",
+    "Venom"
+  ],
+  "author": "Niedson Emanoel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NiedsonEmanoel/telegramToWhatsApp/issues"
+  },
+  "homepage": "https://github.com/NiedsonEmanoel/telegramToWhatsApp#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-telegram-bot-api": "^0.51.0",
+    "npm": "^7.5.4",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "venom-bot": "^2.2.4"
+  }
+}

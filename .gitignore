@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Tokens WhatsApp
+tokens/
+
+# TEMP FILES
+js/temp/
