@@ -16,7 +16,9 @@
         <img src="./assets/img1.gif" width="350px">
     </p>
     <br>
-    <h2>s</h2>
+    <h2>Instalação</h2>
+    <p>Para realizar a instalação faça os seguintes comandos:</p>
+    
+    git clone 
 </html>
-
 
