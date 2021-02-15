@@ -6,6 +6,7 @@
     <p align="center">Projeto que utiliza o <b>venom</b> e a API de Bots do Telegram
         <br>para fazer a cópia em tempo real das mensagens do WhatsApp para o Telegram
     </p>
+    <h2></h2>
     <h2>Exemplo de uso</h2>
     <p>Eu criei esse projeto para receber algumas mensagens no grupo da minha sala e encaminhar para um canal no telegram.</p>
     <span>O GIF abaixo mostra esse processo acontecendo na tela do meu Celular.<br>
@@ -14,7 +15,8 @@
     <p align="center"><br>
         <img src="./assets/img1.gif" width="350px">
     </p>
+    <br>
+    <h2>s</h2>
 </html>
-```
-```
+
 
