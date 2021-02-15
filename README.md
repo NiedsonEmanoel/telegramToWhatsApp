@@ -6,5 +6,9 @@
     <p align="center">Projeto que utiliza o <b>venom</b> e a API de Bots do Telegram
         <br>para fazer a cópia em tempo real das mensagens do WhatsApp para o Telegram
     </p>
+    <h2>Instalação</h2>
+    <p></p>
 </html>
+```
+```
 
