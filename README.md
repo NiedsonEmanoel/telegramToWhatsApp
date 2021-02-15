@@ -12,7 +12,7 @@
     Enquanto a mensagem é enviada em um determinado grupo o bot <b>baixa, descriptografa e envia para o Telegram.<b> 
     </span>
     <p align="center">
-        <img href="https://raw.githubusercontent.com/NiedsonEmanoel/telegramToWhatsApp/main/assets/img1.gif" width="150px">
+        <img src="https://raw.githubusercontent.com/NiedsonEmanoel/telegramToWhatsApp/main/assets/img1.gif" width="150px">
     </p>
 </html>
 ```
