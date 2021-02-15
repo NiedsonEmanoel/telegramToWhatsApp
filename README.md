@@ -21,6 +21,7 @@
         <img src="./assets/img1.gif" width="350px">
     </p>
     <br>
+    <h2></h2>
     <h2>Instalação</h2>
     <p>Para realizar a instalação faça os seguintes comandos:</p>
     
@@ -43,7 +44,7 @@ Configure seu .env com seu ID, TOKEN e GROUP_ID (ver documentação do VENOM).
 ```
 npm start
 ```
-
+## 
 ## Contribua
 
 1. Faça o _fork_ do projeto (<https://github.com/NiedsonEmanoel/telegramToWhatsApp/fork>)
@@ -53,6 +54,7 @@ npm start
 5. Crie um novo _Pull Request_
 
 <html>
+<h2></h2>
 <h2 align= "center">Sobre o autor [META]</h2>
 <p align='center'>
 <b>Niedson Emanoel<b><br>
