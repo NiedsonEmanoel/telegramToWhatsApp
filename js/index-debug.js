@@ -9,3 +9,5 @@ venom.create('telegramToWhatsApp', undefined, undefined,{
     logQR: true,
     autoClose: 60*60*24*30*12*5
 }).then((client)=>{Start.Debug(client);}).catch(e=>console.log(e));
+
+
