@@ -4,7 +4,7 @@
   "description": "Bot que leva as conversas de um grupo ou contato do WhatsApp para o Telegram.",
   "main": "index.js",
   "scripts": {
-    "test": "node index-d",
+    "test": "cd js/ & node index-debug",
     "start": "node index"
   },
   "repository": {
